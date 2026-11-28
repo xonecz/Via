@@ -497,12 +497,12 @@
     <string name="action_copy_image">Kopírovat obrázek</string>
     <string name="ssl_warning_insecure_connection_message">Připojení k %1$s není zabezpečené:\n%2$s\nPřejete si přesto pokračovat?</string>
     <string name="ssl_warning_dont_ask_again">V této relaci prohlížení se již neptat</string>
-    <string name="ssl_warning_certificate_untrusted">Certyfikat není důvěryhodný</string>
+    <string name="ssl_warning_certificate_untrusted">Certifikát není důvěryhodný</string>
     <string name="ssl_warning_certificate_date_invalid">Datum certifikátu je neplatné</string>
     <string name="ssl_warning_certificate_expired">Platnost certifikátu vypršela</string>
     <string name="ssl_warning_certificate_domain_mismatch">Doména v certifikátu neodpovídá doméně webu</string>
-    <string name="ssl_warning_certificate_invalid">Certyfikat je neplatný</string>
-    <string name="ssl_warning_certificate_not_yet_valid">Certyfikat zatím není platný</string>
+    <string name="ssl_warning_certificate_invalid">Certifikát je neplatný</string>
+    <string name="ssl_warning_certificate_not_yet_valid">Certifikát zatím není platný</string>
     <string name="the_site">Tento web</string>
     <string name="navigation_up">Přejít nahoru</string>
     <string name="hide_popup_window">Skrýt vyskakovací okno</string>
